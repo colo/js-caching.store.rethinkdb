@@ -1,0 +1,23 @@
+{
+  "name": "js-caching.store.rethinkdb",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colo/js-caching.store.rethinkdb.git"
+  },
+  "author": "Luciano Bueno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/colo/js-caching.store.rethinkdb/issues"
+  },
+  "homepage": "https://github.com/colo/js-caching.store.rethinkdb#readme",
+  "dependencies": {
+    "js-pipeline.output.rethinkdb": "git+https://github.com/colo/js-pipeline.output.rethinkdb.git",
+    "node-app-rethinkdb-client": "git+https://github.com/colo/node-app-rethinkdb-client.git"
+  }
+}
